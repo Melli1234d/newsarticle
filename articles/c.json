@@ -1,0 +1,30 @@
+{
+  "headline": "Headline3",
+  "teaserText" : "Wirklich total brandneu",
+  "teaserImageUrl" : "https://via.placeholder.com/150",
+  "subHeadline" : "Das glaubt keiner",
+  "author": "hans",
+  "datePublished" : "2020-02-10T10:33:15.426Z",
+  "sections" :
+  [
+    {
+      "text": "Hallo. Ich bin ein kleiner Blindtext. Und zwar schon so lange ich denken kann. Es war nicht leicht zu verstehen, was es bedeutet, ein blinder Text zu sein: Man ergibt keinen Sinn. Wirklich keinen Sinn. Man wird zusammenhangslos eingeschoben und rumgedreht – und oftmals gar nicht erst gelesen. Aber bin ich allein deshalb ein schlechterer Text als andere? Na gut, ich werde nie in den Bestsellerlisten stehen. Aber andere Texte schaffen das auch nicht. Und darum stört es mich nicht besonders blind zu sein. Und sollten Sie diese Zeilen noch immer lesen, so habe ich als kleiner Blindtext etwas geschafft, wovon all die richtigen und wichtigen Texte meist nur träumen."
+    }, {
+    "imageUrl" : "https://via.placeholder.com/300",
+    "caption" : "Bildunterschrift"
+  },
+    {
+      "text": "Lorem ipsum dolor sit amet“ sind im Web wohl die meistverbreiteten Worte. Doch den Ursprung oder gar deren Bedeutung kennt fast niemand. Anwendung finden der bekannte Text heutzutage vor allem bei Entwicklern und Designern."
+    },
+    {
+      "imageUrl" : "https://via.placeholder.com/300",
+      "caption" : "Bildunterschrift"
+    },
+    {
+      "imageUrl" : "https://via.placeholder.com/300",
+      "caption" : "Bildunterschrift"
+    },{
+    "text": " Wer in der Schule Lateinunterricht hatte und ein wenig im Gehirn kramt, stellt vermutlich zwei Dinge fest: Erstens klingt der Text irgendwie lateinisch und zweitens, was genau hieß nochmal „Lorem“? Ich kann dich beruhigen. Dein Gehirn funktioniert noch super, denn das Wort „Lorem“ existiert weder im Lateinischen noch in irgendeiner anderen realen Sprache – die Wortfolge ist ein Blindtext. Dennoch verteilen sich Buchstaben und Wortlängen in dem Lorem-ipsum-Text ähnlich wie in der natürlichen lateinischen Sprache."
+  }
+  ]
+}

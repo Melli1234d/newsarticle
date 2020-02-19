@@ -1,0 +1,30 @@
+{
+  "headline": "headline2",
+  "teaserText" : "teaser Text2",
+  "teaserImageUrl" : "https://via.placeholder.com/150",
+  "subHeadline" : "subheadline2",
+  "author": "peter",
+  "datePublished" : "2020-02-10T10:33:15.426Z",
+  "sections" :
+  [
+    {
+      "text": "Wer während der Autofahrt über Handy oder Freisprechanlage telefoniert, fährt wie ein angetrunkener Wagenlenker. Zu diesem Schluss kommen die Psychologen Frank Drews, David Strayer und der Toxikologe Dennis Crouch von der Universität Utah in ihrer Studie, die sie heute in dem Journal Human Factors veröffentlichen. 25 Männer und 15 Frauen im Alter zwischen 22 und 34 Jahren nahmen an «A Comparison of the Cell Phone Driver and the Drunk Driver» teil. Das Bundesamt für Luftfahrt finanzierte die Untersuchungen mit 25 000 Dollar, um Rückschlüsse auf die Aufmerksamkeit von Piloten ziehen zu können."
+    }, {
+    "imageUrl" : "https://via.placeholder.com/300",
+    "caption" : "Bildunterschrift"
+  },
+    {
+      "text": "Wenn Sie hinter dem Lenkrad telefonieren, fahren Sie, als ob Sie 0,8 Promille Alkohol intus hätten», erklärt Frank Drews, Assistenz-Professor für Psychologie. Diese Blutalko- holkonzentration sei bereits in den meisten amerikanischen Staaten illegal. «Wenn der Gesetzgeber wirklich das Autofahren sicherer machen möchte, sollte er das Telefonieren komplett verbieten», meint Drews."
+    },
+    {
+      "imageUrl" : "https://via.placeholder.com/300",
+      "caption" : "Bildunterschrift"
+    },
+    {
+      "imageUrl" : "https://via.placeholder.com/300",
+      "caption" : "Bildunterschrift"
+    },{
+    "text": "Sowohl Freisprechanlage als auch Handy beeinflussten den Fahrstil und zeigten keinen Unterschied im Grad der Ablenkung. «Das stellt besonders die Auflagen in Frage, die das Telefonieren mit Handys verbieten, es aber über Freisprechanlage erlauben.» Verglichen mit konzentrierten Fahrern steuerten die telefonierenden Insassen ihr Gefährt in der Si- mulation etwas langsamer, bremsten später und benötigen mehr Zeit führ die Anfahrt da- nach. Durch das Auswerten aktueller und früherer Studien zeigen die Forscher, dass Te- lefonierende fünf Mal eher in einen Unfall verwickelt werden. Die gleiche Wahrscheinlichkeit geben andere Studien für Fahrer mit 0,8 Promille Blutalkohol an. [...]"
+  }
+  ]
+}

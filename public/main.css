@@ -1,0 +1,74 @@
+/*Box-Modell umstellen auf HTML-Ebene, gilt vorerst nur für den html-Befehl*/
+html{
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+    /*Den Verlauf mindestens bis auf den unteren Browserrand ausdehnen*/
+    min-height:100%;
+    /*Auf jeden Fall für Desktop Browser einen Scrollbalken erzwingen, sonst "hüpft" das Layout.*/
+    overflow-x:scroll;
+    overflow-y:scroll;
+}
+/*Box Modell an alle Kind-Elemente vererben!*/
+*,::before,::after{
+    -moz-box-sizing:inherit;
+    -webkit-box-sizing:inherit;
+    box-sizing:inherit;
+}
+/*Normalisieren aller Abstände*/
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family: "Segoe UI", Segoe, Frutiger,"Frutiger Linotype","Dejavu Sans","Helvetica Neue",Arial,sans-serif;
+    font-size:1.0625em;/*17px; 17px / 16px*/
+    /*linear-gradient hier einfügen!*/
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d6dbba+0,7f8947+100 */
+    background: #d6dbba; /* Old browsers */
+    background: -moz-linear-gradient(top, #d6dbba 0%, #7f8947 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #d6dbba 0%,#7f8947 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #d6dbba 0%,#7f8947 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6dbba', endColorstr='#7f8947',GradientType=0 ); /* IE6-9 */
+}
+/*Zentrieren des Layouts*/
+
+main {
+    display: block; /*ie9-11*/
+    background: #fff;
+    min-height: 29.4117em;
+    padding: 1.7647em 2.3529em;
+    align-content: space-around;
+}
+
+
+
+
+
+.article-teaser {
+    display: flex;
+    align-content: flex-start;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-height: 160px;
+    margin: 1rem;
+}
+
+.article-teaser__image {
+    overflow: hidden;
+    height: 150px;
+    width: 150px;
+    margin-right: 1rem;
+}
+
+.article-teaser__image img {
+    height: 100%;
+}
+
+.article-teaser__headline{
+    margin: 20px;
+}
+
+.article-teaser__text {
+    margin: 12px;
+}
